@@ -2,7 +2,7 @@
   "name": "Monokai Pro",
   "dark": true,
   "author": "Jonathan Esposito",
-  "editorScheme": "/colors/Monokai Pro.xml",
+  "editorScheme": "/themes/Monokai Pro.xml",
   "ui": {
     "*": {
       "acceleratorSelectionForeground": "#939293",

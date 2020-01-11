@@ -2,7 +2,7 @@
   "name": "Monokai Pro (Filter Spectrum)",
   "dark": true,
   "author": "Jonathan Esposito",
-  "editorScheme": "/colors/Monokai Pro Spectrum.xml",
+  "editorScheme": "/themes/Monokai Pro Spectrum.xml",
   "ui": {
     "*": {
       "acceleratorSelectionForeground": "#8b888f",
