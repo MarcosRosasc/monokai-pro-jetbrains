@@ -20,7 +20,7 @@ This project is a faithful adaptation of the Monokai Pro theme for JetBrains, in
 
 ![Filter Ristretto](screenshots/ristretto.png)
 
-Filter Spectrum:
+#### Filter Spectrum:
 
 ![Filter Spectrum](screenshots/spectrum.png)
 
