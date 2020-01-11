@@ -9,5 +9,5 @@ The colors were originally pulled from the Monokai Pro theme from the Material p
 To create the filters, I created a script that maps the default colors to the filter colors, and replaces each value. Whenever the default them is modified, the script should be run to update the filters:
 
 ```python
-$ python filters.py
+python filters.py
 ```
