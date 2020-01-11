@@ -10,19 +10,15 @@
     ]]>
   </description>
 
-  <!-- See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for details.-->
   <idea-version since-build="191.0"/>
-
-  <!--
-  See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html on how to target
-  different products
-  Using `com.intellij.modules.lang` enables support for all products.
-  -->
   <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae" path="/Monokai Pro.theme.json"/>
-    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-2" path="/Monokai Pro Spectrum.theme.json"/>
+    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-1" path="/Monokai Pro.theme.json"/>
+    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-2" path="/Monokai Pro Machine.theme.json"/>
+    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-3" path="/Monokai Pro Octagon.theme.json"/>
+    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-4" path="/Monokai Pro Ristretto.theme.json"/>
+    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-5" path="/Monokai Pro Spectrum.theme.json"/>
   </extensions>
 
 </idea-plugin>

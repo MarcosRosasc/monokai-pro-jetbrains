@@ -4,19 +4,19 @@ This project is a faithful adaptation of the Monokai Pro theme for JetBrains, in
 
 ## Screenshots
 
-Monokai Pro:
+#### Monokai Pro:
 
 ![Monokai Pro](screenshots/default.png)
 
-Filter Machine:
+#### Filter Machine:
 
 ![Filter Machine](screenshots/machine.png)
 
-Filter Octagon:
+#### Filter Octagon:
 
 ![Filter Octagon](screenshots/octagon.png)
 
-Filter Ristretto:
+#### Filter Ristretto:
 
 ![Filter Ristretto](screenshots/ristretto.png)
 
