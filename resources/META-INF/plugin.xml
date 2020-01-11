@@ -1,0 +1,28 @@
+<idea-plugin>
+  <id>monokai-pro</id>
+  <name>Monokai Pro</name>
+  <version>0.1</version>
+  <vendor>Jonathan Esposito</vendor>
+
+  <description>
+    <![CDATA[
+      Monokai Pro is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.
+    ]]>
+  </description>
+
+  <!-- See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for details.-->
+  <idea-version since-build="191.0"/>
+
+  <!--
+  See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html on how to target
+  different products
+  Using `com.intellij.modules.lang` enables support for all products.
+  -->
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae" path="/Monokai Pro.theme.json"/>
+    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-2" path="/Monokai Pro Spectrum.theme.json"/>
+  </extensions>
+
+</idea-plugin>
