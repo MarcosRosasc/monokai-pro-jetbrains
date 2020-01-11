@@ -1,6 +1,6 @@
 # Monokai Pro for JetBrains
 
-This project is a faithful adaptation of the Monokai Pro theme for JetBrains, including all available filters. Credit for the theme goes to the original creator: https://monokai.pro.
+The unofficial Monokai Pro theme, faithfully adapted for JetBrains. This plugin includes the default theme, including all four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original creator: <a href="https://monokai.pro">https://monokai.pro</a>.
 
 ## Screenshots
 
@@ -26,9 +26,11 @@ This project is a faithful adaptation of the Monokai Pro theme for JetBrains, in
 
 ## Development
 
-The colors were originally pulled from the Monokai Pro theme from the Material plugin, and modified to better match the official versions of Monokai Pro on Sublime and VSCode. I also updated the theme to use a handful of base colors I could match with known colors used in iTerm and Sublime/VSCode. 
+The colors were originally pulled from the Material Theme UI plugin, and modified to better match the official versions of Monokai Pro on Sublime and VSCode (cleaner borders, softer hovers, etc). I also updated the theme to use a handful of base colors I could match with known colors used in iTerm and Sublime/VSCode. 
 
-To create the filters, I created a script that maps the default colors to the filter colors, and replaces each value. Whenever the default them is modified, the script should be run to update the filters:
+To create the filters, I made a script that maps the default colors to the filter colors, and replaces each value. The filter colors were discovered using iTerm and Sublime.
+
+Whenever the default theme is modified (Monokai Pro.theme.json and Monokai Pro.xml), this script should be run to update the filters:
 
 ```python
 python filters.py

@@ -1,11 +1,16 @@
-<idea-plugin>
+<idea-plugin
+>
   <id>monokai-pro</id>
   <name>Monokai Pro</name>
   <version>0.1</version>
-  <vendor>Jonathan Esposito</vendor>
+  <vendor url="https://github.com/jontaydev/monokai-pro-jetbrains">Jonathan Esposito</vendor>
 
   <description>
     <![CDATA[
+      The unofficial Monokai Pro theme, faithfully adapted for JetBrains. This plugin includes the default theme, including all four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original creator: <a href="https://monokai.pro">https://monokai.pro</a>.
+      <br/><br/>
+      From the website:
+      <br/><br/>
       Monokai Pro is a color scheme and customized user interface theme for code editors. It has been designed with beautiful functionality in mind. Carefully selected shades of colors are the foundation of an uncompromising, non-distractive user interface.
     ]]>
   </description>
@@ -20,5 +25,4 @@
     <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-4" path="/Monokai Pro Ristretto.theme.json"/>
     <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-5" path="/Monokai Pro Spectrum.theme.json"/>
   </extensions>
-
 </idea-plugin>
