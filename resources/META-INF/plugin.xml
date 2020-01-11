@@ -19,10 +19,10 @@
   <depends>com.intellij.modules.lang</depends>
 
   <extensions defaultExtensionNs="com.intellij">
-    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-1" path="/Monokai Pro.theme.json"/>
-    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-2" path="/Monokai Pro Machine.theme.json"/>
-    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-3" path="/Monokai Pro Octagon.theme.json"/>
-    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-4" path="/Monokai Pro Ristretto.theme.json"/>
-    <themeProvider id="1324eea6-b737-4305-8a73-14af69073eae-5" path="/Monokai Pro Spectrum.theme.json"/>
+    <themeProvider id="b8abb5dc-b0c9-4d20-97f7-ec5cde31cfd7" path="/Monokai Pro.theme.json"/>
+    <themeProvider id="96c210a3-cc3b-47c2-ba0f-6de6f50c18a3" path="/Monokai Pro Machine.theme.json"/>
+    <themeProvider id="342c21d9-7947-4ea7-8291-d4fd4e96fa36" path="/Monokai Pro Octagon.theme.json"/>
+    <themeProvider id="76cc8066-d21c-4e4c-8583-1b3f22e90e8f" path="/Monokai Pro Ristretto.theme.json"/>
+    <themeProvider id="ddd7798e-8bd6-4aa2-8345-a08190090321" path="/Monokai Pro Spectrum.theme.json"/>
   </extensions>
 </idea-plugin>
