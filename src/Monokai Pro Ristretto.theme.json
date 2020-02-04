@@ -17,8 +17,8 @@
       "inactiveBackground": "#211c1c",
       "inactiveForeground": "#8c8384",
       "infoForeground": "#8c8384",
-      "selectionBackground": "#403838",
-      "selectionBackgroundInactive": "#403838",
+      "selectionBackground": "#2c2525",
+      "selectionBackgroundInactive": "#2c2525",
       "selectionForeground": "#fff1f3",
       "selectionInactiveBackground": "#403838",
       "separatorColor": "#2c2525"
@@ -206,12 +206,12 @@
       "visitedForeground": "#f9cc6c"
     },
     "List": {
-      "background": "#2c2525",
-      "foreground": "#fff1f3",
-      "selectionBackground": "#403838",
-      "selectionForeground": "#fff1f3",
-      "selectionInactiveForeground": "#fff1f3",
-      "selectionInactiveBackground": "#403838"
+      "background": "#211c1c",
+      "foreground": "#8c8384",
+      "selectionBackground": "#2c2525",
+      "selectionForeground": "#f9cc6c",
+      "selectionInactiveBackground": "#2c2525",
+      "selectionInactiveForeground": "#8c8384"
     },
     "MemoryIndicator": {
       "allocatedBackground": "#403838",
@@ -487,7 +487,7 @@
       "underlineColor": "#f9cc6c"
     },
     "Table": {
-      "background": "#2c2525",
+      "background": "#211c1c",
       "dropLineColor": "#f9cc6c",
       "dropLineShortColor": "#f9cc6c",
       "focusCellBackground": "#403838",
@@ -648,18 +648,18 @@
     },
     "WelcomeScreen": {
       "background": "#2c2525",
-      "borderColor": "#2c2525",
+      "borderColor": "#332c2c",
       "captionBackground": "#211c1c",
       "captionForeground": "#fff1f3",
       "footerBackground": "#211c1c",
       "footerForeground": "#fff1f3",
       "headerBackground": "#2c2525",
       "headerForeground": "#fff1f3",
-      "separatorColor": "#2c2525",
+      "separatorColor": "#332c2c",
       "Projects": {
-        "background": "#403838",
-        "selectionBackground": "#403838",
-        "selectionInactiveBackground": "#403838"
+        "background": "#211c1c",
+        "selectionBackground": "#2c2525",
+        "selectionInactiveBackground": "#2c2525"
       }
     },
     "window": "#2c2525",

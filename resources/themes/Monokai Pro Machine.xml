@@ -2999,17 +2999,17 @@
         <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE"/>
         <option name="REST.FIXED">
             <value>
-                <option name="BACKGROUND" value="f2fffc"/>
+                <option name="BACKGROUND" value="273136"/>
             </value>
         </option>
         <option name="REST.INLINE">
             <value>
-                <option name="BACKGROUND" value="f2fffc"/>
+                <option name="BACKGROUND" value="273136"/>
             </value>
         </option>
         <option name="REST.INTERPRETED">
             <value>
-                <option name="BACKGROUND" value="f2fffc"/>
+                <option name="BACKGROUND" value="273136"/>
             </value>
         </option>
         <option name="RHTML_COMMENT_ID" baseAttributes="HTML_COMMENT"/>
