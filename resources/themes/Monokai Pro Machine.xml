@@ -86,7 +86,7 @@
         <option name="MT_SUPPRESSED" value="eeffff" />
         <option name="NOTIFICATION_BACKGROUND" value="19181a" />
         <option name="NOT_CHANGED" value="939393" />
-        <option name="QUESTION_HINT" value="3a4449" />
+        <optionq name="QUESTION_HINT" value="3a4449" />
         <option name="RECENT_LOCATIONS_SELECTION" value="1d2528" />
         <option name="RIGHT_MARGIN_COLOR" value="3a4449" />
         <option name="SELECTED_INDENT_GUIDE" value="7cd5f1" />
@@ -114,7 +114,7 @@
         <option name="ScrollBar.trackColor" value="273136" />
         <option name="TAB_UNDERLINE" value="ffed72" />
         <option name="TAB_UNDERLINE_INACTIVE" value="ffed72" />
-        <option name="TEARLINE_COLOR" value="798384" />
+        <option name="TEARLINE_COLOR" value="3a4449" />
         <option name="TOOLTIP" value="3a4449" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="6b7678" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="59575a" />
